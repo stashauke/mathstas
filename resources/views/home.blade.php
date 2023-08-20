@@ -20,10 +20,11 @@
             <a href="#who-are-you">Who are you?</a>
             <a href="#how-we-teach">How we teach?</a>
             <a href="#call-me">Call me!</a>
+            <a href="{{ url('pages') }}">Draft</a>
         </nav>
     </header>
     <main>
-        <article class="bg-yellow-200 text-red-600">
+        <article>
             <header id="home">
                 <h1>Do you want to study mathematics at Cambridge?</h1>
             </header>
@@ -156,6 +157,7 @@
             <a href="#who-are-you">Who are you?</a>
             <a href="#how-we-teach">How we teach?</a>
             <a href="#call-me">Call me!</a>
+            <a href="{{ url('pages') }}">Draft</a>
         </nav>
     </footer>
     </body>
