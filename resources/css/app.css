@@ -1,3 +1,57 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-slate-200 dark:bg-slate-800 text-black dark:text-white overflow-hidden
+    }
+
+    header > nav, footer > nav {
+        @apply p-8 sticky h-[10vh] bg-slate-400 dark:bg-slate-600 text-xs 2xl:text-2xl xl:text-xl lg:text-lg md:text-base sm:text-sm text-center
+    }
+
+    nav > a {
+        @apply p-1 bg-red-300 dark:bg-red-700 font-bold rounded-lg drop-shadow-xl border-solid border-black dark:border-white border-2 hover:bg-white dark:hover:bg-black;
+    }
+
+    main > article {
+        @apply overflow-y-scroll scroll-smooth h-[80vh] content-center;
+    }
+
+    article > header {
+        @apply w-[90vw] md:w-[80vw] lg:w-[70vw] xl:w-[60vw] min-h-[15vh] mx-auto;
+    }
+
+    article > header > h1 {
+        @apply xl:text-5xl lg:text-4xl md:text-3xl sm:text-2xl text-2xl font-bold text-green-700 dark:text-green-400;
+    }
+
+    article > section {
+        @apply w-[90vw] md:w-[80vw] lg:w-[70vw] xl:w-[60vw] min-h-[75vh] mx-auto;
+    }
+
+    article > section > h2 {
+        @apply xl:text-5xl lg:text-4xl md:text-3xl sm:text-2xl text-2xl mt-4 font-bold text-indigo-700 dark:text-indigo-400;
+    }
+
+    article > section > h3 {
+        @apply xl:text-4xl lg:text-3xl md:text-2xl sm:text-xl text-xl mt-4 mt-2 font-bold text-red-700 dark:text-red-400;
+    }
+
+    article > section > p, article > section > ul, article > footer > p {
+        @apply xl:text-3xl lg:text-2xl md:text-xl sm:text-lg text-base mt-2 mb-4 font-serif;
+    }
+
+    ul {
+        @apply list-disc list-inside;
+    }
+
+    article > footer {
+        @apply w-[90vw] md:w-[80vw] lg:w-[70vw] xl:w-[60vw] h-[10vh] min-h-[10vh] mx-auto text-center;
+    }
+
+    article > footer > hr {
+        @apply w-full border-solid border-2 border-blue-700 mt-8;
+    }
+}
