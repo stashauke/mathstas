@@ -1,4 +1,10 @@
-# How to prepare for a math (or stem?) degree at a top University?
+---
+title: How to prepare for a maths degree
+author: Stas Hauke
+date: 2023-08-16
+excerpt: This is just a lot of text and nothing very interesting really
+---
+# 11 How to prepare for a math (or stem?) degree at a top University?
 Mathematics students. We are very diverse, from those interested in Pure Mathematics, through those focusing on Statistics all the way to Applied Mathematicians, we come from different countries and continents, UK, Eastern Europe, Asia and more; but the one thing we have in common is our passion for that subject and the very similar way we got hooked on maths.
 Not during math classes, but after them when working on extra problem sets that would prepare us for our first competitions. From there we picked up on Olympiads, small research projects, took part in summer math camps and by the time we were to take entry exams – we were somewhat prepared.
 
