@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HomepageController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -22,9 +23,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/pages', function () {
-    return view('pages');
-});
+Route::get('/pages', [HomepageController::class, 'show']);
+Route::get('/homepage', [HomepageController::class, 'index']);
 
 Route::get('/dashboard', function () {
     return view('dashboard');
