@@ -1,28 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description"
-              content="Improve your maths skills by taking private online maths lessons with a very good maths graduate,
-               who will take you step by step through everything you need to get onto a good maths degree.">
-        <title>Private Maths Tuition</title>
-        <link rel="icon" type="image/x-icon" href="{{ url('favicon.ico') }}">
-
-        @vite('resources/css/app.css')
-        @vite('resources/js/app.js')
-    </head>
+    @include('layouts.head')
     <body class="antialiased">
-    <header>
-        <nav>
-            <a href="#home">Home</a>
-            <a href="#maths">Maths</a>
-            <a href="#who-are-you">Who are you?</a>
-            <a href="#how-we-teach">How we teach?</a>
-            <a href="#call-me">Call me!</a>
-            <a href="{{ url('pages') }}">Draft</a>
-        </nav>
-    </header>
+    @include('layouts.nav-header', ['styles' => 'background: lightskyblue'])
     <main>
         <article>
             <header id="home">
@@ -150,15 +130,6 @@
             </footer>
         </article>
     </main>
-    <footer>
-        <nav>
-            <a href="#home">Home</a>
-            <a href="#maths">Maths</a>
-            <a href="#who-are-you">Who are you?</a>
-            <a href="#how-we-teach">How we teach?</a>
-            <a href="#call-me">Call me!</a>
-            <a href="{{ url('pages') }}">Draft</a>
-        </nav>
-    </footer>
+    @include('layouts.nav-footer', ['styles' => 'background: lightskyblue'])
     </body>
 </html>
