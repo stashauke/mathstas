@@ -3,20 +3,20 @@
 @tailwind utilities;
 
 @layer base {
-    body {
-        @apply bg-slate-200 dark:bg-slate-800 text-black dark:text-white overflow-hidden
-    }
+    /*body {*/
+    /*    @apply bg-slate-200 dark:bg-slate-800 text-black dark:text-white overflow-hidden*/
+    /*}*/
 
-    header > nav, footer > nav {
-        @apply p-2 sticky h-[10vh] bg-slate-400 dark:bg-slate-600 text-xs 2xl:text-2xl xl:text-xl lg:text-lg md:text-base sm:text-sm flex gap-x-4 justify-center items-center
-    }
+    /*header > nav, footer > nav {*/
+    /*    @apply p-2 sticky h-[10vh] bg-slate-400 dark:bg-slate-600 text-xs 2xl:text-2xl xl:text-xl lg:text-lg md:text-base sm:text-sm flex gap-x-4 justify-center items-center*/
+    /*}*/
 
-    nav > a {
-        @apply p-1 h-[5vh] bg-red-300 dark:bg-red-700 font-bold rounded-lg drop-shadow-xl border-solid border-black dark:border-white border-2 hover:bg-white dark:hover:bg-black;
-    }
+    /*nav > a {*/
+    /*    @apply p-1 h-[5vh] bg-red-300 dark:bg-red-700 font-bold rounded-lg drop-shadow-xl border-solid border-black dark:border-white border-2 hover:bg-white dark:hover:bg-black;*/
+    /*}*/
 
     main > article {
-        @apply overflow-y-scroll scroll-smooth h-[80vh] content-center;
+        @apply scroll-smooth content-center;
     }
 
     article > header {
@@ -47,7 +47,7 @@
         @apply xl:text-3xl lg:text-2xl md:text-xl sm:text-lg text-base mt-2 mb-4 font-serif;
     }
 
-    ul {
+    article ul {
         @apply list-disc list-inside;
     }
 
