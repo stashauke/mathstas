@@ -3,8 +3,8 @@
     @include('layouts.head')
     <body class="antialiased">
     @include('layouts.nav-header', ['styles' => 'background: lightskyblue'])
-    <main>
-        <article>
+    <main class="w-[90vw] md:w-[80vw] lg:w-[70vw] xl:w-[60vw] min-h-[75vh] mx-auto">
+        <article class="prose prose-lg prose-p prose-h1:text-blue-600 prose-h2:text-green-600">
             <header id="home">
                 <h1>Do you want to study mathematics at Cambridge?</h1>
             </header>

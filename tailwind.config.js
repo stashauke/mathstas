@@ -20,5 +20,8 @@ export default {
         },
     },
 
-    plugins: [require("tw-elements/dist/plugin.cjs")]
+    plugins: [
+        require("tw-elements/dist/plugin.cjs"),
+        require('@tailwindcss/typography')
+    ]
 };
