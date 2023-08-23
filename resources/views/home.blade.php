@@ -3,8 +3,8 @@
     @include('layouts.head')
     <body class="antialiased">
     @include('layouts.nav-header', ['styles' => 'background: lightskyblue'])
-    <main class="w-[90vw] md:w-[80vw] lg:w-[70vw] xl:w-[60vw] min-h-[75vh] mx-auto">
-        <article class="prose prose-lg prose-p prose-h1:text-blue-600 prose-h2:text-green-600">
+    <main class="bg-slate-300 w-[90vw] md:w-[80vw] lg:w-[70vw] xl:w-[60vw] min-h-[75vh] mx-auto">
+        <article class="bg-blue-100 prose max-w-none prose-lg prose-p prose-h1:text-blue-600 prose-h2:text-green-600">
             <header id="home">
                 <h1>Do you want to study mathematics at Cambridge?</h1>
             </header>
@@ -124,7 +124,7 @@
                     by the time I had to sit my STEP exam for Cambridge I got the above required grade (double S).
                 </p>
             </section>
-            <footer>
+            <footer class="bg-red-200">
                 <hr>
                 <p>This is the content footer</p>
             </footer>
