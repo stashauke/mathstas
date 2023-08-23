@@ -23,4 +23,14 @@ class HomepageController extends Controller
 
         return view('pages', ['post' => $post]);
     }
+
+    public function showPostFromFile($page = 'home') {
+        $postClass = new Post;
+
+        $filename = $page.".md";
+
+        $post = $postClass->getPostData($filename);
+
+        return view('pages', ['post' => $post]);
+    }
 }

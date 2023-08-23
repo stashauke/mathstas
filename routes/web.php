@@ -19,9 +19,14 @@ Route::get('/welcome', function () {
     return view('welcome');
 });
 
-Route::get('/', function () {
-    return view('home');
-});
+//Route::get('/', function () {
+//    return view('home');
+//});
+
+Route::get('/pages', [HomepageController::class, 'show']);
+Route::get('/homepage', [HomepageController::class, 'index']);
+Route::get('/page/{page}', [HomepageController::class, 'showPostFromFile']);
+Route::get('/', [HomepageController::class, 'showPostFromFile']);
 
 Route::get('/pages', [HomepageController::class, 'show']);
 Route::get('/homepage', [HomepageController::class, 'index']);

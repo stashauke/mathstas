@@ -78,7 +78,7 @@
                     <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
                         <a
                             class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
-                            href="/#home"
+                            href="/"
                             data-te-nav-link-ref
                         >Home</a
                         >
@@ -86,51 +86,59 @@
                     <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
                         <a
                             class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
-                            href="/#maths"
+                            href="/page/study"
                             data-te-nav-link-ref
-                        >Maths</a
+                        >Studying at a University</a
                         >
                     </li>
                     <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
                         <a
                             class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
-                            href="/#who-are-you"
+                            href="/page/activities"
                             data-te-nav-link-ref
-                        >Who are you?</a
+                        >Extracurricular activities</a
                         >
                     </li>
                     <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
                         <a
                             class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
-                            href="/#how-we-teach"
+                            href="/page/teaching"
                             data-te-nav-link-ref
-                        >How we teach?</a
+                        >How do I teach?</a
                         >
                     </li>
                     <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
                         <a
                             class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
-                            href="/#call-me"
+                            href="/page/contact"
                             data-te-nav-link-ref
-                        >Call me!</a
+                        >Get in touch!</a
                         >
                     </li>
                     <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
                         <a
                             class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
-                            href="pages"
+                            href="/page/about"
                             data-te-nav-link-ref
-                        >Post</a
+                        >About me</a
                         >
                     </li>
-                    <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>
-                        <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
-                            href="homepage"
-                            data-te-nav-link-ref
-                        >Posts</a
-                        >
-                    </li>
+{{--                    <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>--}}
+{{--                        <a--}}
+{{--                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"--}}
+{{--                            href="pages"--}}
+{{--                            data-te-nav-link-ref--}}
+{{--                        >Post</a--}}
+{{--                        >--}}
+{{--                    </li>--}}
+{{--                    <li class="mb-4 lg:mb-0 lg:pr-2" data-te-nav-item-ref>--}}
+{{--                        <a--}}
+{{--                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"--}}
+{{--                            href="homepage"--}}
+{{--                            data-te-nav-link-ref--}}
+{{--                        >Posts</a--}}
+{{--                        >--}}
+{{--                    </li>--}}
                 </ul>
             </div>
 
