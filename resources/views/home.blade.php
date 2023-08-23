@@ -124,10 +124,10 @@
                     by the time I had to sit my STEP exam for Cambridge I got the above required grade (double S).
                 </p>
             </section>
-            <footer class="bg-red-200">
-                <hr>
-                <p>This is the content footer</p>
-            </footer>
+{{--            <footer class="bg-red-200">--}}
+{{--                <hr>--}}
+{{--                <p>This is the content footer</p>--}}
+{{--            </footer>--}}
         </article>
     </main>
     @include('layouts.nav-footer', ['styles' => 'background: lightskyblue'])
