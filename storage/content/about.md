@@ -1,2 +1,9 @@
-# About me.
-I am a part III masters of mathematics student at Cambridge University and I have been through the journey described above, I have taken part in Polish Math Olympiads and become a Laurate numerous times and as a reward I got the opportunity to represent Poland in St Petersburg, Slovakia and Vietnam. My research project [link here] took part in EUCYS and Delta, I took part in PROMYS 2019 and PROMYS 2020, as well as MBL 2018 and MBL 2020. During my undergraduate degree I have done summer projects in Graph Theory (2022) and Logic - Finite Model Theory (2023). This year I will be specializing in Logic and Set Theory which is universal for all pure mathematics with a prospect to undertake a PhD course in that field.
+# About Me
+
+I am a Part III student studying for Masters in Mathematics at Cambridge University and I have been through the journey described here on my website.
+
+I have taken part in many Polish Math Olympiads and was awarded a Laurate numerous times. As a reward, I was given the opportunity to represent Poland in St Petersburg, Slovakia, and Vietnam. My research project [link here] took part in the EUCYS and Delta competitions, and I took part in PROMYS 2019 and PROMYS 2020, as well as MBL 2018 and MBL 2020.
+
+During my undergraduate degree, I did two summer projects in Graph Theory (2022) and Logic-Finite Model Theory (2023).
+
+This year, I will be specializing in Logic and Set Theory, which are universal subjects for all Pure Mathematicians and my plan is to undertake a PhD in that field.
