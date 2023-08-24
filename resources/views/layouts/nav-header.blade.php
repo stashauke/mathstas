@@ -10,8 +10,11 @@
 
 <header>
     <!-- Main navigation container -->
+    <div>
+        <img class="w-full" alt="A Blue Sky" src="{{ URL::to('/images/mathstas-header.jpg') }}">
+    </div>
     <nav
-        class="bg-black text-2xl font-bold flex-no-wrap relative flex w-full items-center justify-between bg-[#FBFBFB] py-2 shadow-md shadow-black/5 dark:bg-neutral-600 dark:shadow-black/10 lg:flex-wrap lg:justify-start lg:py-4"
+        class="bg-black text-2xl font-bold flex-no-wrap relative flex w-full items-center justify-between py-2 shadow-md shadow-black/5 dark:bg-neutral-600 dark:shadow-black/10 lg:flex-wrap lg:justify-start lg:py-4"
         data-te-navbar-ref>
         <div class="flex w-full flex-wrap items-center justify-between px-3">
             <!-- Hamburger button for mobile view -->
@@ -73,51 +76,51 @@
 
                 <!-- Left navigation links -->
                 <ul
-                    class="list-style-none mr-auto flex flex-wrap pl-0 flex-row"
+                    class="list-disc list-inside marker:text-white mr-auto flex flex-wrap pl-0 flex-row text-base lg:text-2xl md:text-xl sm:text-lg"
                     data-te-navbar-nav-ref>
-                    <li class="mb-4 pr-2" data-te-nav-item-ref>
+                    <li class="list-none mb-4 pr-4" data-te-nav-item-ref>
                         <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
+                            class="text-white transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
                             href="/"
                             data-te-nav-link-ref
                         >Home</a
                         >
                     </li>
-                    <li class="mb-4 pr-2" data-te-nav-item-ref>
+                    <li class="mb-4 pr-4 " data-te-nav-item-ref>
                         <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
+                            class="text-white transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
                             href="/page/study"
                             data-te-nav-link-ref
                         >Studying at a University</a
                         >
                     </li>
-                    <li class="mb-4 pr-2" data-te-nav-item-ref>
+                    <li class="mb-4 pr-4" data-te-nav-item-ref>
                         <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
+                            class="text-white transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
                             href="/page/activities"
                             data-te-nav-link-ref
                         >Extracurricular activities</a
                         >
                     </li>
-                    <li class="mb-4 pr-2" data-te-nav-item-ref>
+                    <li class="mb-4 pr-4" data-te-nav-item-ref>
                         <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
+                            class="text-white transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
                             href="/page/teaching"
                             data-te-nav-link-ref
                         >How do I teach?</a
                         >
                     </li>
-                    <li class="mb-4 pr-2" data-te-nav-item-ref>
+                    <li class="mb-4 pr-4" data-te-nav-item-ref>
                         <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
+                            class="text-white transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
                             href="/page/contact"
                             data-te-nav-link-ref
                         >Get in touch!</a
                         >
                     </li>
-                    <li class="mb-4 pr-2" data-te-nav-item-ref>
+                    <li class="mb-4 pr-4" data-te-nav-item-ref>
                         <a
-                            class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
+                            class="text-white transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-400"
                             href="/page/about"
                             data-te-nav-link-ref
                         >About me</a
