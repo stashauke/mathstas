@@ -1,31 +1,29 @@
-# How to prepare for a math (or stem?) degree at a top University?
-Mathematics students. We are very diverse, from those interested in Pure Mathematics, through those focusing on Statistics all the way to Applied Mathematicians, we come from different countries and continents, UK, Eastern Europe, Asia and more; but the one thing we have in common is our passion for that subject and the very similar way we got hooked on maths.
-Not during math classes, but after them when working on extra problem sets that would prepare us for our first competitions. From there we picked up on Olympiads, small research projects, took part in summer math camps and by the time we were to take entry exams – we were somewhat prepared.
+# How to prepare for math Olympiads?
+# How to prepare for STEP exam in advance?
+# How to prepare for a math degree at a top University?
+# How to prepare for a STEM degree at a top University?
 
-- **Top Universities** - Wether it's Cambridge or Oxford, MIT or Stanford, IVY League school or ETH Zurich or another top University you want to get in, it will require a lot of passion and determination to prepare yourself for application. You will have to impress the interviewer in an oral examination, get top grades at your A-levels (or equivalent) and get required grade at the entry exam. The process sounds very stressful and impossible to succeed at, but if you start your jourey with mathematics that require problem solving and creativity early enough - you will enjoy it!
-
-  Read more: Oxford, Cambridge, Imperial, MIT, Stanford, Harvard, Princeton, ETH Zurich
-  Read more: STEP, MAT, TMUA, SAT, ACT
-  Read more: Application process, Oral exams, Interviews, Letter of recommendation
+From my experience the best advice I could give to a school student asking themselves one of the above question would be to enjoy mathematics and develop passion for that subject. But that's easier said then done. Math when presented at school rarely struck exciting, so how can you be passionate about it? Here with help comes a range of extracurricular activities:
 
 # What’s there for you? Extracurricular activities - explained.
 
-- **Maths competitions** - Good place to start examples include closed form multiple choice competitions such as Kangaroo, AMC8 or AMC10.
+- **Maths competitions** - Good place to start examples include closed form multiple choice competitions such as Kangaroo, AMC8 or AMC10. 
 
-  Read more: Kangaroo, AMC8, AMC10
+    Read more: Kangaroo, AMC8, AMC10
 
-- **Olympiads** - You have to stretch you mathematical out-side of the box thinking, as questions are no longer closed form. You need to write down your proof which usually is an abstract proof, which may be intimidating at the beginning but highly addictive after a while.
+- **Olympiads** - You have to stretch you mathematical out-side of the box thinking, as questions are no longer closed form. You need to write down your proof which usually is an abstract proof, which may be intimidating at the beginning but highly addictive after a while. 
 
-  Read more: AMC 12; BMO; Junior Olympiads;  Senior Olympiads;
+    Read more: AMC 12; BMO; Junior Olympiads;  Senior Olympiads;
 
 - **Research projects** - Here you can unleash your true unlimited creativity, a paper has to be written on a subject not studied before, not only do you have to solve a hard problem, but you have to find one first!
 
-  Read more: Delta; EUCYS
+    Read more: Delta; EUCYS
 
 - **Camps** - If that’s not enough for you and you want to spend your summer doing maths, apply for one of those. You will get to meet peers as excited about maths as you from other countries!
 
-  Read more: Promys;   MathCamp;     MBL
+    Read more: Promys;   MathCamp;     MBL
 
+- **Private Tutoring** - Another good way to explore maths is through one to one tutoring!
 
 
 # How will you be tought? How Can I help you?
@@ -38,8 +36,8 @@ Lesson consists of content lectured by me with theorem and ideas presented. Then
 
 Although I will help you with preparation for your entry exams and guide you through application process I don't specialise in the last minute crash courses. Instead I will help you understand what mathematics is really about, help you become creative and come up with outside of box thinking over longer period of time and develop mathematical skills that will become very usefull whether you decide to pursue mathematical olympiads, mathematical degree or any other STEM degree.
 
-- **Elaborations**
-
+- **Elaborations** 
+    
 
     Read more: Title, Main, Hints, Solutions
     Read more: Title, Main, Hints, Solutions
