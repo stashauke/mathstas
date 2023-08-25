@@ -1,10 +1,10 @@
 <?php
     $iconcolors = [
-        'tl' => 'yellow',
-        'tr' => 'lime',
+        'tl' => 'cyan',
+        'tr' => 'red',
         'bl' => 'blue',
-        'br' => 'red',
-        'bg' => 'lightgrey'
+        'br' => 'green',
+        'bg' => 'yellow'
     ];
 ?>
 
@@ -48,28 +48,28 @@
                 data-te-collapse-item>
                 <!-- Logo -->
                 <a
-                    class="mb-4 ml-2 mr-5 mt-3 flex items-center text-neutral-900 hover:text-neutral-900 focus:text-neutral-900 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400 lg:mb-0 lg:mt-0"
+                    class="mb-4 ml-2 mr-5 mt-3 text-neutral-900 hover:text-neutral-900 focus:text-neutral-900 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400 lg:mb-0 lg:mt-0"
                     href="/">
-                <div style="width:8vw; height:8vh; fill-opacity:0;">
-                    <svg width="50" height="50" viewBox="-20 -20 220 220">
-                        <path d="M -15 -15 L -15 182 L 182 182 L 182 -15 L -15 -15 Z" fill-opacity="1" fill="{{ $iconcolors['bg'] }}" stroke="black" stroke-width="5">
-                        </path>
-                        <path d="M 0 0 L 0 96 L 96 96 L 96 0 L 0 0 Z" stroke="{{ $iconcolors['tl'] }}" stroke-width="24">       </path>
-                        <path d="M 0 72 L 0 168 L 96 168 L 96 72 L 0 72 Z" stroke="{{ $iconcolors['bl'] }}" stroke-width="24">       </path>
-                        <path d="M 72 72 L 72 168 L 168 168 L 168 72 L 72 72 Z" stroke="{{ $iconcolors['br'] }}" stroke-width="24">       </path>
-                        <path d="M 72 0 L 72 96 L 168 96 L 168 0 L 72 0 Z" stroke="{{ $iconcolors['tr'] }}" stroke-width="24">       </path>
-                        <path d="M 0 59 L 0 84 Z" stroke="{{ $iconcolors['tl'] }}" stroke-width="24">
-                        </path>
-                        <path d="M 72 84 L 72 108 Z" stroke="{{ $iconcolors['tl'] }}" stroke-width="24">
-                        </path>
-                        <path d="M 71 -12 L 71 12 Z" stroke="{{  $iconcolors['tl'] }}" stroke-width="24">
-                        </path>
-                        <path d="M 96 84 L 96 109 Z" stroke="{{  $iconcolors['bl'] }}" stroke-width="24">
-                        </path>
-                        <path d="M 168 84 L 168 109 Z" stroke="{{  $iconcolors['br'] }}" stroke-width="24">
-                        </path>
-                        <path d="M 72 156 L 72 180 Z" stroke="{{  $iconcolors['bl'] }}" stroke-width="24">
-                        </path>
+                <div class="hidden md:block">
+                    <svg width="50" height="50" viewBox="0 0 160 160">
+                        <path d="M 0 0 L 160 0 L 160 160 L 0 160 L 0 0 Z" fill-opacity="1" fill="{{ $iconcolors['bg'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 0 0 L 100 0 L 100 100 L 0 100 L 0 0 Z" fill-opacity="1" fill="{{ $iconcolors['tl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 0 60 L 100 60 L 100 160 L 0 160 L 0 60 Z" fill-opacity="1" fill="{{ $iconcolors['br'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 60 60 L 160 60 L 160 160 L 60 160 L 60 60 Z" fill-opacity="1" fill="{{ $iconcolors['bl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 60 0 L 60 100 L 160 100 L 160 0 L 60 0 Z" fill-opacity="1" fill="{{ $iconcolors['tr'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 0 0 L 0 20 L 80 20 L 80 0 L 0 0 Z" fill-opacity="1" fill="{{ $iconcolors['tl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 20 0 L 20 20 L 80 20 L 80 0 L 20 0 Z" fill-opacity="1" fill="{{ $iconcolors['tl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 0 80 L 20 80 L 20 160 L 0 160 L 0 80 Z" fill-opacity="1" fill="{{ $iconcolors['br'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 0 140 L 80 140 L 80 160 L 0 160 L 0 140 Z" fill-opacity="1" fill="{{ $iconcolors['br'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 140 80 L 140 160 L 160 160 L 160 80 L 140 80 Z" fill-opacity="1" fill="{{ $iconcolors['bl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 20 80 L 20 100 L 80 100 L 80 80 L 20 80 Z" fill-opacity="1" fill="{{ $iconcolors['tl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 80 80 L 100 80 L 100 140 L 80 140 L 80 80 Z" fill-opacity="1" fill="{{ $iconcolors['br'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 80 60 L 160 60 L 160 80 L 80 80 L 80 60 Z" fill-opacity="1" fill="{{ $iconcolors['bl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 80 20 L 100 20 L 100 80 L 80 80 L 80 20 Z" fill-opacity="1" fill="{{ $iconcolors['tl'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 20 20 L 60 20 L 60 60 L 20 60 L 20 20 Z" fill-opacity="1" fill="{{ $iconcolors['bg'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 20 100 L 60 100 L 60 140 L 20 140 L 20 100 Z" fill-opacity="1" fill="{{ $iconcolors['bg'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 100 100 L 140 100 L 140 140 L 100 140 L 100 100 Z" fill-opacity="1" fill="{{ $iconcolors['bg'] }}" stroke="black" stroke-width="0"></path>
+                        <path d="M 100 20 L 100 60 L 140 60 L 140 20 L 100 20 Z" fill-opacity="1" fill="{{ $iconcolors['bg'] }}" stroke="black" stroke-width="0"></path>
                     </svg>
                 </div>
                 </a>
