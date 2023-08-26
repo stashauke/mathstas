@@ -5,23 +5,23 @@
 
 From my experience the best advice I could give to a school student asking themselves one of the above question would be to enjoy mathematics and develop passion for that subject. But that's easier said then done. Math when presented at school rarely struck exciting, so how can you be passionate about it? Here with help comes a range of extracurricular activities:
 
-# What’s there for you? Extracurricular activities - explained.
+# Extracurricular activities
 
-- **Maths competitions** - Good place to start examples include closed form multiple choice competitions such as Kangaroo, AMC8 or AMC10. 
+- **Maths competitions** - Math competitions are a great place to get started if you want to explore engaging mathematics.
+ 
+    Read more: Kangaroo Math Competition, Junior / Intermediate / Senior Mathematical Challenge, AMC 8 / AMC 10 (American Mathematics Competitions 8 / 10)
 
-    Read more: Kangaroo, AMC8, AMC10
+- **Olympiads** - To take part in olympiads you have to stretch you mathematical out-side of the box thinking, as questions are no longer closed form. You need to write down your solution which usually is an abstract proof, which may be intimidating at the beginning but highly addictive after a while.
 
-- **Olympiads** - You have to stretch you mathematical out-side of the box thinking, as questions are no longer closed form. You need to write down your proof which usually is an abstract proof, which may be intimidating at the beginning but highly addictive after a while. 
+    Read more: British Mathematical Olympiad, International Mathematical Olympiad, USA Junior Mathematical Olympiad (USAJMO), USA Mathematical Olympiad (USAMO)
 
-    Read more: AMC 12; BMO; Junior Olympiads;  Senior Olympiads;
+- **Research projects** - To undertake a research project you have to unleash your true unlimited creativity, a paper has to be written on a subject not studied before, not only do you have to solve a hard problem, but you have to find one first! Once accepted a poster or a presentation will be necessary for the finals.
 
-- **Research projects** - Here you can unleash your true unlimited creativity, a paper has to be written on a subject not studied before, not only do you have to solve a hard problem, but you have to find one first!
-
-    Read more: Delta; EUCYS
+    Read more: - European Union Contest for Young Scientists (EUCYS), Intel International Science and Engineering Fair (ISEF)
 
 - **Camps** - If that’s not enough for you and you want to spend your summer doing maths, apply for one of those. You will get to meet peers as excited about maths as you from other countries!
 
-    Read more: Promys;   MathCamp;     MBL
+    Read more: Program in Mathematics for Young Scientists (PROMYS), MathCamp, Math Beyond Limits (MBL)
 
 - **Private Tutoring** - Another good way to explore maths is through one to one tutoring!
 
@@ -38,11 +38,8 @@ Although I will help you with preparation for your entry exams and guide you thr
 
 - **Elaborations** 
     
-
     Read more: Title, Main, Hints, Solutions
-    Read more: Title, Main, Hints, Solutions
-    Read more: Title, Main, Hints, Solutions
-    Read more: Title, Main, Hints, Solutions
+    
 
 # Get in touch!
     via box with message to me +  my contact details  short about me
