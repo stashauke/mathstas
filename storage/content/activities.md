@@ -8,6 +8,8 @@ Math competitions are a great place to get started if you want to explore engagi
 
 - **AMC 8 / AMC 10 (American Mathematics Competitions 8 / 10)**  is a math competition open to students in grades below 8 / below 10. It features a series of 25 multiple-choice math questions that cover a variety of mathematical concepts. It is a contest held annually, providing participants with an opportunity to challenge themselves and showcase their mathematical abilities.
 
+*The first competition I have taken part in was the "Board of Education Math Competition* in Poland when I was 12 years old, becoming a Laureate in this competition allowed me to apply to any middle school in the country and get accepted without admission. It also pushed me to explore Olympiads and start working with a tutor.*
+
 # Olympiads 
 
 To take part in olympiads you have to stretch you mathematical out-side of the box thinking, as questions are no longer closed form. You need to write down your solution which usually is an abstract proof, which may be intimidating at the beginning but highly addictive after a while. If you are lucky, your country is offering a Junior Olympiad, if not, you will have to enter start with Senior Olympiad and the effort might be rewarded with you representing your country on at an International Olympiad
@@ -18,6 +20,10 @@ To take part in olympiads you have to stretch you mathematical out-side of the b
 
 - The **USA Junior Mathematical Olympiad (USAJMO)** and **USA Mathematical Olympiad (USAMO)** are both held annually in the United States. The former is targeted at students in grades 10 and below. The format of both is a two-day contest, with each day featuring three complex and challenging mathematical problems. A strong performance in the USAMO often opens doors to further mathematical training through the Mathematical Olympiad Program (MOP). Remarkable achievers from the USAMO are selected to represent the United States at the International Mathematical Olympiad (IMO), showcasing the country's mathematical excellence on a global stage.
 
+*In middle school I took part in OMJ (which is the Polish Junior Math Olympiad), I scored 5th and 1st in the country respectively. As a reward I was offered to take part in various training camps and international competitions in Slovakia and Czech Republic. My achievements was the result of work put in during extracurricular math classes and tutoring lessons.
+
+In my last grade of middle school I already took part in OM (which is the Polish Senior Math Olympiad), I became a finalist (around top 100 students of the country) which allowed me to apply to any University in the country and get accepted without admission. So I did that. I started Highschool in September and attending Warsaw University in October. During my Highscool I carried on participating in OM (Senior Math Olympiad), reaching the title of Laureate three times (around top 25 students) due to those results I was chosen to represent Poland in St Petersburg and Hanoi Vietnam. In my last grade of highschool I ranked 10th in the country and therefore was invited to the IMO TST (Team Selection Test) where contestants competed for the chance to represent Poland on the International Mathematical Olympiad. I didn't make the cut as in those times competition in Poland was extremely high, scoring in top 10 countries in the world three times in a row (10th, 6th, 9th)*
+
 # Research projects
 
 To undertake a research project you have to unleash your true unlimited creativity, a paper has to be written on a subject not studied before, not only do you have to solve a hard problem, but you have to find one first! Once accepted a poster or a presentation will be necessary for the finals.
@@ -27,13 +33,23 @@ To undertake a research project you have to unleash your true unlimited creativi
 - The **Intel International Science and Engineering Fair (ISEF)** is a science competition for high school students held in the USA. It offers a platform for young scientists to present their innovative research projects spanning various scientific disciplines. Participants from around the world showcase their work, engage with experts, and compete for awards and scholarships. ISEF fosters scientific inquiry, collaboration, and creativity, nurturing the next generation of scientists and innovators.
 
 
+*In highschool after solving a hard geometrical problem without a known geometrical solution, I undertook research about that geometrical configuration. My research paper took part in EUCYS competition achieving 3rd prize and in Polish Delta Competition awarded a gold medal. I published my work in the Delta Math Journal Dec. 2020 and then wrote an article “Twin Quadrilaterals” for the Delta Math Journal.
+
+It very much enjoyed working on my own piece of mathematics, creating my theorems, writing my proofs in elaborate way, creating poster presentation and preparing for short lecture about my research.*
+
+
+
+
 # Camps
 
 If that’s not enough for you and you want to spend your summer doing maths, apply for one of those. You will get to meet peers as excited about maths as you from other countries, probably some big-fish fields awarded mathematician or top professor in a given field will be around to give a guest lecture. Math matches (it’s more fun than it sounds, trust me!), year long undergraduate course lectured in four hours, proof of a problem that remained opened for 300 years presented on a t-shirt, countless lectures and problem sets inspiring you to study maths and that’s not everything. Non-maths activities can include but are not limited to day trips, puzzle hunts, sports: frisbee, football, volleyball, you name it, hikes and more. You can also have your own lectures by becoming a semi-tutor.
 
 - The **Program in Mathematics for Young Scientists (PROMYS)** is a renowned summer math camp held in Boston and Oxford and is designed to challenge and engage mathematically talented high school students. PROMYS offers an immersive environment where students explore advanced mathematical topics through intensive problem-solving, collaboration, and in-depth discussions. Led by experienced mathematicians, the program encourages participants to discover and prove mathematical concepts within the field of Number Theory.
 
-- **MathCamp** is an intensive summer program that caters to talented high school students with a passion for mathematics and computer science. With locations in both the USA and Canada, MathCamp offers a rigorous curriculum taught by experienced instructors, providing participants with the opportunity to deepen their mathematical understanding and develop their problem-solving skills. MathCamp also encourages a sense of community among like-minded peers creating lasting friendships.
+- **Canada/USA Mathcamp** is an intensive summer program that caters to talented high school students with a passion for mathematics and computer science. With locations in both the USA and Canada, MathCamp offers a rigorous curriculum taught by experienced instructors, providing participants with the opportunity to deepen their mathematical understanding and develop their problem-solving skills. MathCamp also encourages a sense of community among like-minded peers creating lasting friendships.
 
 - **Math Beyond Limits (MBL)** is a twelve day mathematical program for gifted high school students from around the world held annual in Poland. MBL days are filled with interesting math classes which go far beyond regular lessons, inspiring talks by campers which are 30-minute math-related presentations, and time to explore math on your own. Exciting special days include mountain hikes, Puzzle Hunts, and Mathematical Matches.
 
+*I have taken part in PROMYS twice, in 2019 at Oxford University where I studied Number Theory from basics. It was a great experience of spending half the day doing maths and the other half playing sports and hanging out with other math students from different countries with whom I still stay in touch. It was a great experience and opportunity to meet top figures in mathematics such as Martin R. Bridson Whitehead Professor of Pure Mathematics at the University of Oxford and the president of the Clay Mathematics Institute or Sir Andrew John Wiles who proved Fermat's Last Theorem, which remaind as an open problem for three and a half centuries. In 2020 I was a participant at PROMYS Bridge Boston, which had to be done online due to the COVID Pandemic, on that course I learned about Logic and Topology
+
+I haven't taken part in Canada/USA Mathcamp but heard only great things about it! I did take part in MBL though, in 2018 as a participant and in 2019 as a Semitutor, when I had to prepare a course and lecture in projective geometry*
