@@ -15,7 +15,9 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                sans: ['ui-sans-serif', 'Helvetica', 'Arial', 'sans-serif'],
+                serif: ['Patua One', 'ui-serif', 'Times New Roman', 'Times', 'serif'],
+                mono: ['ui-monospace'],
             },
         },
     },
