@@ -4,13 +4,15 @@ If you're a student who enjoys thinking analytically, you might be wondering whi
 
 One important thing that connects all of these courses is the use of mathematics. Understanding math is crucial for each of these fields. However, what sets these courses apart is the balance between theory and practice, as well as the opportunities for jobs in academics or industries after you graduate.
 
-There's a common misunderstanding that if you graduate with a degree in mathematics, your only job option is becoming a math teacher. But in today's world of Machine Learning and Data, companies are competing hand over fist to recruit and employ math graduates. With instances of one of them getting banned from entering and advertising at the Cambridge Math Departament because they were offering incredibly well-paying job contracts to students who were only halfway through their degree.
+There's a common misunderstanding that if you graduate with a degree in mathematics, your only job option is becoming a math teacher. But in today's world of Machine Learning and Data, companies are competing hand over fist to recruit and employ math graduates. With instances of students being offered well payed job contracts halfway through their degree.
 
 Here's a straightforward piece of advice: if you can, focus on learning math well in school. This is because it's generally easier to learn the non-math parts of your chosen university course later on.
 
 Other things you might want to consider when choosing your university are aspects such as: location, reputation and rankings, faculty and research, sports and study facilities, networking opportunities, extracurricular activities and societies and more.
 
 # Application Process
+
+The three main parts of the application process are:
 
 - **Personal Statement**: A personal statement is a brief written document, typically 4000 characters, where applicants express their motivations, achievements, and aspirations. It highlights their suitability for the chosen course, demonstrating their enthusiasm and relevant qualities.
 
